@@ -35,7 +35,7 @@ let issued = [
 ];
 
 let users = [
-  { id: 1, name: 'manassa', email: 'manasansreedharan123@gmail.com', password: 'Manasa@123', role: 'admin' },
+  { id: 1, name: 'manasa', email: 'manasansreedharan123@gmail.com', password: 'Manasa@123', role: 'admin' },
   { id: 2, name: 'Admin', email: 'admin@gmail.com', password: 'Admin@123', role: 'admin' },
 ];
 
